@@ -1,0 +1,16 @@
+asn1crypto==0.22.0
+cffi==1.10.0
+Django==1.11.2
+django-webpack-loader==0.5.0
+enum34==1.1.6
+idna==2.5
+ipaddress==1.0.18
+pbr==3.1.1
+pycparser==2.17
+python-decouple==3.0
+pytz==2017.2
+six==1.10.0
+stevedore==1.23.0
+virtualenv==15.1.0
+virtualenv-clone==0.2.6
+virtualenvwrapper==4.7.2
